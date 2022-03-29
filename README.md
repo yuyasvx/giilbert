@@ -20,6 +20,8 @@ Squircle をベースにした、直線的でありながら丸っこい要素�
 
 # ダウンロード
 
-# Contributtion
+[こちら](https://github.com/yuyasvx/giilbert/releases)からどうぞ。
+
+# Contribution
 
 申し訳ないですが、あまり時間が取れない気がするので受け付けていません。。
